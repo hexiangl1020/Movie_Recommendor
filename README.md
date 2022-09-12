@@ -19,3 +19,5 @@ This is the correlation plot for features in the cleaned dataframe.
 ![](images/movie_genre.png)
 
 This pie chart showed the movie genres for top250 films.
+
+If you're interested, please read the ipynb file. 
