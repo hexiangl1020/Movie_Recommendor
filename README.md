@@ -10,6 +10,12 @@ In this project, We are interested in building a movie recommender system that u
 
 ![](images/top500_words.png)
 
+This is a word cloud of commonly seen words in description of top 500 films. 
+
 ![](images/movie_correlation.png)
 
+This is the correlation plot for features in the cleaned dataframe. 
+
 ![](images/movie_genre.png)
+
+This pie chart showed the movie genres for top250 films.
